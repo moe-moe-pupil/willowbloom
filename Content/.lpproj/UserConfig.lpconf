@@ -1,0 +1,143 @@
+<GlobalConfig CodeFontSize = "22"/>
+<BreakpointList/>
+<WatchList/>
+<ProjectUI>
+  <TreeState BaseX = "0" BaseY = "-60" AlternativeItem = "LuaFolders#Content#Lua#TestUI.lua">
+    <SelectedList>
+      <Selected Path = "LuaFolders#Content#Lua#LuaActor.lua"/>
+    </SelectedList>
+    <ExpandedList>
+      <Expanded Path = "LuaFolders"/>
+      <Expanded Path = "LuaFolders#Content"/>
+      <Expanded Path = "LuaFolders#Content#.lpproj"/>
+      <Expanded Path = "LuaFolders#Content#.lpproj#Apis"/>
+      <Expanded Path = "LuaFolders#Content#.lpproj#Apis#Lua"/>
+      <Expanded Path = "LuaFolders#Content#Blueprints"/>
+      <Expanded Path = "LuaFolders#Content#Lua"/>
+      <Expanded Path = "LuaFolders#Content#StarterContent"/>
+    </ExpandedList>
+  </TreeState>
+</ProjectUI>
+<FindAnReplaceUI
+  Pattern = "fileM"
+  MatchCase = "false"
+  MatchWholeWord = "false"
+  UseRegEx = "false"
+  Target = ""
+  Replace = ""/>
+<MainWindow
+  X = "217"
+  Y = "133"
+  Width = "1280"
+  Height = "606"
+  Maximized = "false"
+  LastCodeFilename = "D:/google/watchers/Content/Lua/Blu_C.lua">
+  <DockingControl>
+    <DockingNode DockingDirection = "Horizontal">
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "311" Height = "489" DocumentStyle = "false">
+          <DockingCard
+            Text = "Project"
+            Tag = ""
+            ActivePage = "false"
+            ActivateTime = "0"/>
+          <DockingCard
+            Text = "Outline"
+            Tag = ""
+            ActivePage = "true"
+            ActivateTime = "0"/>
+        </DockingBlock>
+      </DockingNode>
+      <DockingNode DockingDirection = "Vertical">
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "950" Height = "304" DocumentStyle = "true">
+            <DockingCard
+              Text = "LuaActor.lua"
+              Tag = "D:/google/watchers/Content/Lua/LuaActor.lua"
+              ActivePage = "false"
+              ActivateTime = "783163"
+              CaretLineIndex = "11"
+              CaretCodeCharIndex = "6"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "TestUI.lua"
+              Tag = "D:/google/watchers/Content/Lua/TestUI.lua"
+              ActivePage = "false"
+              ActivateTime = "567884"
+              CaretLineIndex = "15"
+              CaretCodeCharIndex = "13"
+              BaseX = "0"
+              BaseY = "-198"/>
+            <DockingCard
+              Text = "Blu_C.lua"
+              Tag = "D:/google/watchers/Content/Lua/Blu_C.lua"
+              ActivePage = "true"
+              ActivateTime = "2068269"
+              CaretLineIndex = "54"
+              CaretCodeCharIndex = "2"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "BuiltInTypes.lua"
+              Tag = "D:/google/watchers/Content/.lpproj/Apis/BuiltInTypes.lua"
+              ActivePage = "false"
+              ActivateTime = "542146"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "LuaDebuggee.lua"
+              Tag = "D:/google/watchers/Content/.lpproj/Apis/LuaDebuggee.lua"
+              ActivePage = "false"
+              ActivateTime = "545052"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-924"/>
+          </DockingBlock>
+        </DockingNode>
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "950" Height = "178" DocumentStyle = "false">
+            <DockingCard
+              Text = "Output"
+              Tag = ""
+              ActivePage = "true"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Call Stack"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Locals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Globals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Watches"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Autos"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Breakpoints"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+          </DockingBlock>
+        </DockingNode>
+      </DockingNode>
+    </DockingNode>
+  </DockingControl>
+</MainWindow>
